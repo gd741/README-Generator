@@ -4,7 +4,7 @@
 
 ## Description
 
-Simple README Generator
+A simple README Generator that utilises Javascript 
 
 ## Table of Contents
 [Installation](#Installation)  
