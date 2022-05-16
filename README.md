@@ -1,1 +1,37 @@
-# README-Generator
+# README Generator
+
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+
+Simple README Generator
+
+## Table of Contents
+[Installation](#Installation)  
+[Usage](#Usage)  
+[License](#License)  
+[Contributing](#Contribution-Guidelines)  
+[Tests](#How-To-Test)  
+[COntact](#Contact)  
+
+## Installation
+
+```undefined```
+
+## Usage
+
+make a simple README file
+
+## Contribution Guidelines
+
+None
+
+## Test Instructions
+
+none
+
+## Contact
+
+[github](https://github.com/gd741)
+
+glennjdigal@gmail.com  
