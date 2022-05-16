@@ -12,7 +12,7 @@ Simple README Generator
 [License](#License)  
 [Contributing](#Contribution-Guidelines)  
 [Tests](#How-To-Test)  
-[COntact](#Contact)  
+[Contact](#Contact)  
 
 ## Installation
 
