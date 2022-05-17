@@ -6,13 +6,19 @@
 
 A simple README Generator that utilises Javascript 
 
+## 
+``
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+``
 ## Table of Contents
 [Installation](#Installation)  
 [Usage](#Usage)  
 [License](#License)  
 [Contributing](#Contribution-Guidelines)  
 [Tests](#How-To-Test)  
-[Contact](#Contact)  
+[Contact](#Contact)
 
 ## Installation
 
