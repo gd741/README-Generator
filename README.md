@@ -16,15 +16,18 @@ A simple README Generator that utilises Javascript
 
 ## Installation
 
-```undefined```
+```
+npm init
+npm install inquirer
+```
 
 ## Usage
 
-make a simple README file
+run 'node index.js' at the root of your project via the terminal
 
 ## Contribution Guidelines
 
-None
+Glenn Digal
 
 ## Test Instructions
 
