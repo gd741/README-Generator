@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Function - no license, return an empty string
 function renderLicenseBadge(license) {
   switch(license)
   {
@@ -16,8 +15,7 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// Function - no license, return an empty string
 function renderLicenseLink(license) {
   switch(license)
   {
@@ -34,8 +32,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// Function - no license, return an empty string
 function renderLicenseSection(license) {
   if (license == "None")
   {return "";}
@@ -61,11 +58,11 @@ ${data.description}
 [License](#License)  
 [Contributing](#Contribution-Guidelines)  
 [Tests](#How-To-Test)  
-[COntact](#Contact)  
+[Contact](#Contact)  
 
 ## Installation
 
-\`\`\`${data.install}\`\`\`
+${data.install}
 
 ## Usage
 
