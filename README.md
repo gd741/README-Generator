@@ -8,6 +8,8 @@ A simple README Generator that utilises node.js
 
 ![Alt Text](https://github.com/gd741/README-Generator/blob/main/Animation.gif)
 
+[github](https://github.com/gd741/README-Generator/blob/main/Animation.gif)
+
 ## User Story
 
 ```md
