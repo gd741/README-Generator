@@ -5,7 +5,7 @@
 ## Description
 
 A simple README Generator that utilises node.js
-![Alt Text]()
+![Alt Text](https://github.com/gd741/README-Generator/blob/main/Animation.gif)
 
 ## User Story
 
