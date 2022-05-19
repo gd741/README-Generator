@@ -63,7 +63,7 @@ Glenn Digal
 
 ## Test Instructions
 
-none
+Observe current README to understand
 
 ## Contact
 
