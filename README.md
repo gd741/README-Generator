@@ -1,6 +1,6 @@
 # README Generator
 
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -53,7 +53,7 @@ npm install inquirer
 
 ## Usage
 
-run 'node index.js' at the root of your project via the terminal
+Run 'node index.js' at the root of your project via the terminal
 
 ## Contribution Guidelines
 
