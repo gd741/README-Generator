@@ -42,7 +42,7 @@ function renderLicenseSection(license) {
 
 
 
-//create function  that will generate README template that will hold the data user enters from inquirer
+//create function that will generate README template that will hold the data user enters from inquirer
 function generateMarkdown(data) {
   return `# ${data.title}
 
