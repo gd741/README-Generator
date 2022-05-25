@@ -1,3 +1,4 @@
+
 # README Generator
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,9 +7,12 @@
 
 A simple README Generator that utilises node.js
 
-![Alt Text](https://github.com/gd741/README-Generator/blob/main/Animation.gif)
+Gif of application in action  ⬇️
+  
+![Glenn README Generator](https://github.com/gd741/README-Generator/blob/main/README%20Generator.gif)
+  
+Video link to README Generator [➡️](https://drive.google.com/file/d/1w_W0hbYviAKCyFTgtKw2HfvFRh2npgRO/view)  
 
-[Video/Gif](https://github.com/gd741/README-Generator/blob/main/Animation.gif)
 
 ## User Story
 
