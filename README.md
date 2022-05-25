@@ -11,7 +11,7 @@ Gif of application in action  ⬇️
   
 ![Glenn README Generator](https://github.com/gd741/README-Generator/blob/main/README%20Generator.gif)
   
-Video link to README Generator [➡️](https://drive.google.com/file/d/1w_W0hbYviAKCyFTgtKw2HfvFRh2npgRO/view)  
+Video link to README Generator [Link](https://drive.google.com/file/d/1w_W0hbYviAKCyFTgtKw2HfvFRh2npgRO/view)  
 
 
 ## User Story
